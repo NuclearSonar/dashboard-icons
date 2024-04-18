@@ -7,11 +7,9 @@ I wanted consistent design style, high-definition icon for selfhosted apps.
 You can download the icons or use them online with:
 
 ```sh
-https://cdn.jsdelivr.net/gh/NuclearSonar/dashboard-icons/<resolution>px/<example>_<resolution>px.png
+https://cdn.jsdelivr.net/gh/NuclearSonar/dashboard-icons/<resolution>px/<example>.png
 
 ```
-
-
 
 ### Credits
 
